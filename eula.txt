@@ -1,0 +1,119 @@
+AEGISTERM COMMERCIAL EDITION — END USER LICENSE AGREEMENT (EULA)
+=================================================================
+
+Licensor: wonwoo lee (Contact: bluewind201@naver.com) ("Licensor")
+Product:  AegisTerm Commercial Edition (including Microsoft Store edition), updates,
+          and documentation (the "Software")
+
+1. LICENSE GRANT
+   Subject to payment of the applicable fee and compliance with this Agreement, Licensor
+   grants you a non-exclusive, non-transferable, non-sublicensable license to install and
+   use the Software for your internal business or personal purposes:
+   (a) If acquired through the Microsoft Store, in accordance with Microsoft's Standard
+       Application License Terms and applicable Microsoft Store usage rules for the licensed
+       account; or
+   (b) If acquired directly, on the number of devices or by the number of named users
+       stated in your order (the "Licensed Quantity").
+
+2. RESTRICTIONS
+   You may not: (a) copy the Software except for backup or as permitted by the Licensed
+   Quantity or Microsoft Store usage rules; (b) sell, rent, lease, sublicense, or
+   distribute the Software; (c) reverse engineer, decompile, or disassemble the Software
+   except to the extent applicable law expressly permits it despite this limitation;
+   (d) remove proprietary notices; or (e) use the Software to provide a hosted service to
+   third parties.
+
+3. OPEN-SOURCE AND THIRD-PARTY COMPONENTS
+   The Software includes open-source components licensed under their own terms, listed in
+   Settings > About > License information > Open-source license notices (THIRD-PARTY-NOTICES.txt).
+   Those terms govern the respective components, and nothing in this Agreement limits your
+   rights under them. The Software does not include Wireshark/TShark, Npcap, Nmap, AWS CLI,
+   or AWS Session Manager Plugin. If you install such programs yourself, you are responsible
+   for complying with their licenses (for example, the Npcap license limits free installations).
+
+4. OWNERSHIP
+   The Software is licensed, not sold. Licensor and its licensors retain all rights, title,
+   and interest in the Software, including all intellectual property rights.
+
+5. YOUR DATA AND PRIVACY
+   Sessions, credentials, and settings are stored locally on your device (credentials are
+   encrypted with your vault password). Licensor does not collect or transmit them. You are
+   responsible for backing up your data and for using the Software only on systems you are
+   authorized to access. The Software contains no telemetry and no background updater.
+   Optional public-IP lookup is disabled by default (opt-in in Settings) and, if enabled by
+   you, queries Cloudflare (1.1.1.1) or api.ipify.org directly from your device. Features
+   such as WHOIS/ASN lookups (IANA, regional internet registries, Team Cymru), AWS tools
+   (Amazon Web Services), and remote host connections communicate directly with those
+   services when initiated by you. See the published Privacy Policy for full details.
+
+6. UPDATES AND SUPPORT
+   Microsoft Store editions receive updates via the Microsoft Store. Direct distribution
+   updates and technical support are provided as specified in your order or by contacting
+   bluewind201@naver.com.
+
+7. WARRANTY DISCLAIMER
+   EXCEPT AS EXPRESSLY STATED IN YOUR ORDER OR MANDATORY LAW, THE SOFTWARE IS PROVIDED "AS IS"
+   WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE, AND NON-INFRINGEMENT. Some jurisdictions do not allow the exclusion
+   of implied warranties; in that case the exclusion applies to the extent permitted.
+
+8. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT,
+   INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR LOSS OF DATA, PROFITS, OR
+   SERVICE, AND LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED THE FEES YOU PAID FOR THE
+   SOFTWARE IN THE TWELVE (12) MONTHS BEFORE THE CLAIM. Nothing limits liability that
+   cannot be limited under applicable consumer-protection law.
+
+9. TERMINATION
+   This license terminates automatically if you breach this Agreement. On termination you
+   must stop using and delete the Software.
+
+10. EXPORT
+    You must comply with all applicable export control and sanctions laws.
+
+11. GOVERNING LAW
+    This Agreement is governed by the laws of the Republic of Korea, without regard to
+    conflict-of-law rules. Courts of Seoul Central District Court have jurisdiction,
+    unless mandatory consumer law of your country provides otherwise.
+
+12. ENTIRE AGREEMENT
+    This Agreement and your order (together with Microsoft's Standard Application License
+    Terms where acquired through the Microsoft Store) constitute the entire agreement
+    regarding the Software. If a translation conflicts with this English text, the English
+    text prevails.
+
+
+이지스텀(AegisTerm) 상용판 — 최종 사용자 라이선스 계약 (한국어 번역, 참고용)
+================================================================
+
+라이선서: wonwoo lee (문의: bluewind201@naver.com)
+제품: AegisTerm Commercial Edition (Microsoft Store 버전 포함), 업데이트 및 문서
+
+1. 사용 허락: 정해진 대금을 지급하고 본 계약을 지키는 조건으로 업무 또는 개인 목적으로 본
+   소프트웨어를 설치·사용할 수 있는 비독점적·양도 불가·재허락 불가 권리를 드립니다.
+   Microsoft Store 구매분은 Microsoft 표준 애플리케이션 사용 조건(SALT) 및 Store 사용 규칙을
+   함께 따르며, 직접 구매분은 주문서에 정한 장치 수 또는 사용자 수 범위에서 사용합니다.
+2. 제한: 허용 범위를 넘는 복제, 판매·대여·재배포·재허락, 법이 허용하는 범위를 넘는 역설계·
+   디컴파일, 권리 표시 제거, 제3자 대상 호스팅 서비스 제공을 금지합니다.
+3. 오픈소스·제3자 구성요소: 포함된 오픈소스는 각자의 라이선스를 따르며 목록과 전문은
+   설정 > 정보 > 라이선스 정보 > 오픈소스 라이선스 고지에 있습니다. Wireshark/TShark, Npcap,
+   Nmap, AWS CLI, AWS Session Manager Plugin은 포함되어 있지 않으며, 사용자가 직접
+   설치하는 경우 해당 라이선스 준수 책임은 사용자에게 있습니다(예: Npcap 무료 설치 수 제한).
+4. 소유권: 본 소프트웨어는 판매가 아닌 사용 허락이며 모든 지식재산권은 라이선서에 있습니다.
+5. 데이터 및 개인정보: 세션·자격 증명·설정은 사용자 PC에만 저장되며(자격 증명은 금고 암호로
+   암호화) 라이선서는 이를 수집·전송하지 않습니다. 접근 권한이 있는 시스템에만 사용하십시오.
+   원격 수집(텔레메트리)·자체 백그라운드 업데이터는 없습니다. 공인 IP 조회는 기본 비활성화
+   상태(설정에서 선택 시 활성화)이며, 사용자가 켜면 Cloudflare 1.1.1.1 또는 api.ipify.org에
+   직접 접속합니다. WHOIS·ASN 조회(IANA·지역 인터넷 등록기관·Team Cymru), AWS 도구
+   (Amazon Web Services), 원격 호스트 접속은 사용자가 실행할 때만 해당 서비스·장비와 직접
+   통신합니다. 자세한 내용은 공개된 개인정보 처리방침을 참고하세요.
+6. 업데이트·지원: Microsoft Store 버전은 Microsoft Store를 통해 업데이트가 제공됩니다. 직접
+   배포판의 업데이트 및 기술 지원은 주문서 또는 bluewind201@naver.com 문의를 따릅니다.
+7. 보증 부인: 주문서 또는 강행 법규에 명시된 경우를 제외하고 "있는 그대로" 제공됩니다.
+8. 책임 제한: 법이 허용하는 최대 범위에서 간접·결과적 손해에 책임지지 않으며, 총 책임은
+   청구 전 12개월간 지급한 금액을 넘지 않습니다. 소비자보호법상 제한할 수 없는 책임은 예외입니다.
+9. 해지: 계약 위반 시 자동 해지되며 소프트웨어를 삭제해야 합니다.
+10. 수출 통제 관련 법령을 준수해야 합니다.
+11. 준거법: 대한민국 법, 관할: 서울중앙지방법원 (소비자 거주국의 강행 규정이 우선하는 경우 제외).
+12. 완전 합의: 본 계약과 주문서(Microsoft Store 구매 시 Microsoft 표준 애플리케이션 사용 조건
+    포함)가 전체 합의이며 번역본과 충돌 시 영문이 우선합니다.
