@@ -1,7 +1,7 @@
 AEGISTERM COMMERCIAL EDITION — END USER LICENSE AGREEMENT (EULA)
 =================================================================
 
-Licensor: wonwoo lee (Contact: bluewind201@naver.com) ("Licensor")
+Licensor: 스노비 (wonwoo lee, Contact: bluewind201@naver.com) ("Licensor")
 Product:  AegisTerm Commercial Edition (including Microsoft Store edition), updates,
           and documentation (the "Software")
 
@@ -86,7 +86,7 @@ Product:  AegisTerm Commercial Edition (including Microsoft Store edition), upda
 이지스텀(AegisTerm) 상용판 — 최종 사용자 라이선스 계약 (한국어 번역, 참고용)
 ================================================================
 
-라이선서: wonwoo lee (문의: bluewind201@naver.com)
+라이선서: 스노비 (wonwoo lee, 문의: bluewind201@naver.com)
 제품: AegisTerm Commercial Edition (Microsoft Store 버전 포함), 업데이트 및 문서
 
 1. 사용 허락: 정해진 대금을 지급하고 본 계약을 지키는 조건으로 업무 또는 개인 목적으로 본
